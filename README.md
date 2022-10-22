@@ -26,7 +26,7 @@
 ## Usage
 
 ### Building
-- Clone this repository `git clone https://github.com/MatHax/Client`
+- Clone this repository
 - Run `./gradlew build`
 
 ### Installation
